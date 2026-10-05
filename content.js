@@ -5,7 +5,7 @@ window.siteContent = {
   links: [
     { title: 'SNS', subtitle: '日々のこと・更新のお知らせ', url: '' },
     { title: 'pixiv', subtitle: 'オリジナル小説', url: '' },
-    { title: 'mnlt novels', subtitle: 'オリジナル小説', url: '' },
+    { title: 'mnlt novels', subtitle: 'オリジナル小説', url: 'https://mypage.syosetu.com/mypage/novellist/userid/3150172/' },
     { title: 'Wavebox', subtitle: '感想・ひとことなどあれば嬉しいです！', url: '' }
   ],
   // 日付と本文は仮の内容です。公開前に変更してください。
