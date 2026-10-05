@@ -5,8 +5,8 @@ window.siteContent = {
   links: [
     { title: 'SNS', subtitle: '日々のこと・更新のお知らせ', url: '' },
     { title: 'pixiv', subtitle: 'オリジナル小説', url: '' },
-    { title: 'ムーンライトノベルズ', subtitle: 'オリジナル小説', url: '' },
-    { title: 'メッセージ', subtitle: '感想・ひとことなど', url: '' }
+    { title: 'mnlt novels', subtitle: 'オリジナル小説', url: '' },
+    { title: 'Wavebox', subtitle: '感想・ひとことなど', url: '' }
   ],
   // 日付と本文は仮の内容です。公開前に変更してください。
   news: [{ date: '2026.10.05', text: 'プロフィールとリンクをまとめるページを準備中です。' }]
