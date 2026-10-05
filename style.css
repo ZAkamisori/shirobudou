@@ -23,3 +23,9 @@
 .hero-base{padding:13px 40px}
 @media(max-width:1000px) and (min-width:701px){.hero{padding:16px 34px 49px;column-gap:12px}.hero-copy h1{max-width:340px}.hero-cat-group{width:min(100%,360px)}.hero-top-lace{width:95px;left:43%;top:13px}.hero-jewel-spoon{height:82px;width:22px;left:41%;bottom:65px}.hero-copy{padding:29px 0 35px}}
 @media(max-width:700px){.hero{grid-template-columns:1fr;padding:0 26px 47px}.hero-copy{padding:31px 2px 6px;min-height:0}.hero-copy h1{max-width:285px;width:88%;margin:0 -9px}.hero-copy .eyebrow{font-size:11px;margin-bottom:11px}.hero-note{font-size:12px;margin-top:10px;line-height:1.8}.hero-art{margin:0;padding:0 0 12px;min-height:0;justify-content:center}.hero-cat-group{width:min(100%,305px)}.hero-top-lace{left:auto;right:18px;top:13px;width:70px;opacity:.9}.hero-jewel-spoon{left:23px;bottom:79px;width:19px;height:70px;transform:rotate(-18deg)}.hero-base{padding:13px 21px}.main-cat{left:18%;width:68%}.cat-heart{right:0;width:24%}.cat-stars{left:3%;width:15%}}
+
+/* メイン背景を彩度を抑えた葡萄色に */
+.hero{background:#685b75;box-shadow:6px 7px 0 #76516d20}
+.hero-copy{color:#fff4f9}
+.hero-base{color:#fff4f9;border-top-color:#a797b0}
+.hero-base a{color:inherit}
