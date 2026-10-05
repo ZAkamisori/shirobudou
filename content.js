@@ -1,10 +1,10 @@
 // このファイルの文章とURLを変更してください。URL未設定の項目はリンクになりません。
 window.siteContent = {
   name: '白葡萄',
-  bio: '小説を書いています。\n創作のお知らせや日々のことは、\nそれぞれのリンク先へ。',
+  bio: '一次創作で小説を書いています。\n読書と映画と舞台が好き。\n創作のお知らせや日々のことは、\nそれぞれのリンク先へ。',
   links: [
     { title: 'SNS', subtitle: '日々のこと・更新のお知らせ', url: '' },
-    { title: 'pixiv', subtitle: '小説・二次創作', url: '' },
+    { title: 'pixiv', subtitle: 'オリジナル小説', url: '' },
     { title: 'ムーンライトノベルズ', subtitle: 'オリジナル小説', url: '' },
     { title: 'メッセージ', subtitle: '感想・ひとことなど', url: '' }
   ],
