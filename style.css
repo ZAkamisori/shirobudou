@@ -58,3 +58,11 @@ main{padding-top:18px}
   main{padding-top:13px}
   .top-charm{margin-bottom:22px}
 }
+
+/* 添付SVGをページ全体の背景に敷く。その他のデザイン設定は変更しない。 */
+body {
+  background-image: url("assets/background.svg");
+  background-repeat: repeat;
+  background-position: center top;
+  background-size: 240px 240px;
+}
