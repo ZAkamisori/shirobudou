@@ -6,7 +6,7 @@ window.siteContent = {
     { title: 'SNS', subtitle: '日々のこと・更新のお知らせ・お返事', url: 'https://x.com/sugarwakusei' },
     { title: 'pixiv', subtitle: 'オリジナル小説', url: '' },
     { title: 'mnlt novels', subtitle: 'オリジナル小説', url: 'https://xmypage.syosetu.com/mypage/novellist/xid/x5089cs/' },
-    { title: 'Wavebox', subtitle: '感想・ひとことなどありましたらとても嬉しいです！', url: '' }
+    { title: 'Wavebox', subtitle: '感想・ひとことなどありましたらとても嬉しいです！', url: 'https://wavebox.me/wave/9g3a3n1in9bte24z/' }
   ],
   // 日付と本文は仮の内容です。公開前に変更してください。
   news: [{ text: '設定のまとめをここに掲載予定です' }]
