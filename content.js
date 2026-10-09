@@ -3,7 +3,7 @@ window.siteContent = {
   name: '砂糖惑星',
   bio: '一次創作で小説を書いています。\n純文学と洋画と舞台が好き。\n受けは大きければ大きいほど嬉しい。\n世界の体積を増やしてほしい。　\n　\nあまりにも似た傾向の男を好きになるので、もう自分で書いちゃえば？！と思って創作を始めました。　\n　\n作品や創作のお知らせなどは\nそれぞれのリンク先へ。',
   links: [
-    { title: 'SNS', subtitle: '日々のこと・更新のお知らせ・お返事', url: '' },
+    { title: 'SNS', subtitle: '日々のこと・更新のお知らせ・お返事', url: 'https://x.com/sugarwakusei' },
     { title: 'pixiv', subtitle: 'オリジナル小説', url: '' },
     { title: 'mnlt novels', subtitle: 'オリジナル小説', url: 'https://xmypage.syosetu.com/mypage/novellist/xid/x5089cs/' },
     { title: 'Wavebox', subtitle: '感想・ひとことなどありましたらとても嬉しいです！', url: '' }
